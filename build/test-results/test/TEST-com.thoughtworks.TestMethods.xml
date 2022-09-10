@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.TestMethods" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-22T07:49:58" hostname="LAPTOP-V004507B" time="0.025">
+  <properties/>
+  <testcase name="ifGivenNumberIs5_shouldReturn_equals()" classname="com.thoughtworks.TestMethods" time="0.019"/>
+  <testcase name="ifGivenNumberIsNegative_shouldThrowFactorialException()" classname="com.thoughtworks.TestMethods" time="0.003"/>
+  <testcase name="givennumber3_shouldReturn_equals()" classname="com.thoughtworks.TestMethods" time="0.001"/>
+  <testcase name="givenNumberIsPositive1_shouldReturn()" classname="com.thoughtworks.TestMethods" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
